@@ -8,4 +8,4 @@ To run the program:<br/>
 
 the game will simply appear on the screen.
 
-![alt text](https://raw.githubusercontent.com/yifan-guo/Color-Detector/blob/master/sample.png)
+![alt text](https://raw.githubusercontent.com/yifan-guo/Color-Detector/master/sample.png)
